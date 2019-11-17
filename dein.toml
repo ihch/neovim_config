@@ -253,6 +253,7 @@ repo = 'cohama/lexima.vim'
 # repo = 'plytophogy/vim-virtualenv'
 
 # colorscheme
+# {{{
 [[plugins]]
 repo = 'altercation/vim-colors-solarized'
 
@@ -273,3 +274,4 @@ repo = 'KeitaNakamura/neodark.vim'
 
 [[plugins]]
 repo = 'hzchirs/vim-material'
+# }}}
